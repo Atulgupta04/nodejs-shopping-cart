@@ -1,14 +1,14 @@
 {
   "name": "nodejs-shopping-cart",
   "version": "1.0.0",
-  "description": "Complete Node.js Guide",
+  "description": "Shopping Cart Project",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon app.js",
     "start-server": "node app.js"
   },
-  "author": "Maximilian Schwarzmüller",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^1.18.3"
@@ -19,5 +19,13 @@
     "express": "^4.16.3",
     "express-handlebars": "^3.0.0",
     "pug": "^2.0.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atulgupta04/nodejs-shopping-cart.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Atulgupta04/nodejs-shopping-cart/issues"
+  },
+  "homepage": "https://github.com/Atulgupta04/nodejs-shopping-cart#readme"
 }
